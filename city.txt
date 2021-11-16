@@ -1,0 +1,5 @@
+6*r1*china*10
+6*u1*usa*10
+6*r2*italy*10
+6*r2*uk*10
+6*r2*china*10
